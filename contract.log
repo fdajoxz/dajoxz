@@ -1,0 +1,60 @@
+Compiled 41 Solidity files successfully (evm target: paris).
+Swisstronik contract deployed to 0xa85af32BF7B8C17c8d4E643b5C2664a323eAd81F
+Contract deployed to 0x9c7B62D5e5d1f90c39D579F4217098f94258c4d1
+Transaction Receipt:  Minting token has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0xa78576825b00dee5e276f63e6a9cd79ebb9944172d445dab023428e863c93e44
+Transaction Response:  Transfer token has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0x1fdbf9efe29d84d2500f067b74d091629c2b1bfd1141789454f30068d107ef82
+Deploying NFT...
+Address written to deployed-address.ts:  0x87bc600f9898D8b212EaC8986C0Ef31E8d5dDB44
+Transaction Receipt:  Minting NFT has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0x807aaed1b0e30f99d92bd18ed98922aa6b251f9fade789256048c10eb81c5068
+PERC20Sample was deployed to: 0x5b3BCC5A5aF55fBE53E72b2b9669e9F22a2BeDED
+TransactionReceipt {
+  provider: HardhatEthersProvider {
+    _hardhatProvider: LazyInitializationProviderAdapter {
+      _providerFactory: [AsyncFunction (anonymous)],
+      _emitter: [EventEmitter],
+      _initializingPromise: [Promise],
+      provider: [BackwardsCompatibilityProviderAdapter]
+    },
+    _networkName: 'swisstronik',
+    _blockListeners: [],
+    _transactionHashListeners: Map(0) {},
+    _eventListeners: [],
+    _latestBlockNumberPolled: 7169131,
+    _isHardhatNetworkCached: false,
+    _blockPollingTimeout: undefined,
+    _transactionHashPollingTimeout: undefined
+  },
+  to: '0x5b3BCC5A5aF55fBE53E72b2b9669e9F22a2BeDED',
+  from: '0xF65a8928acff3fE264682FeB2e654e02bFBF1684',
+  contractAddress: null,
+  hash: '0x0a18dfe403831e6c9a3ca887f90703608be4d36080f9d92b8fc6e5be4a908ba5',
+  index: 1,
+  blockHash: '0x5d9979d6c74f16cdde66a64c6c571f7c00824d89daaaad81c94d17eaa832daba',
+  blockNumber: 7169131,
+  logsBloom: '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+  gasUsed: 65895n,
+  blobGasUsed: undefined,
+  cumulativeGasUsed: 185482n,
+  gasPrice: 8n,
+  blobGasPrice: undefined,
+  type: 2,
+  status: 1,
+  root: undefined
+}
+Transaction Receipt:  Minting token has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0x0a18dfe403831e6c9a3ca887f90703608be4d36080f9d92b8fc6e5be4a908ba5
+Transaction Response:  Transfer token has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0xc524e44fcd909ff0663444d4983ab95857b2c3fd4a39ba8a29743338fa3092f7
+Contract deployed to 0x7A025a5B648d568892deB80C8De095dBeA7bE41a
+Transaction Receipt:  Minting NFT has been success! Transaction hash: https://explorer-evm.testnet.swisstronik.com/tx/0xdf79c91b5133733588b69662dde324c7129206dae7746da1c8831916282028a7
+Deploying Contracts with the account 0xF65a8928acff3fE264682FeB2e654e02bFBF1684 ...
+SWTRImplementation deployed to 0x7DCddcd57eD254c5b0f69D453cBCb116B8872d0d
+ProxyAdmin deployed to 0xb4D0E21e135059237F2aCcB0597098DC76420EC0
+SWTRProxy deployed to 0xEbCF48fE015CF77BF1bEf029c691bb67720B7511
+Successfully submitted source code for contract
+contracts/proxy/SWTRProxy.sol:SWTRProxy at 0xEbCF48fE015CF77BF1bEf029c691bb67720B7511
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract SWTRProxy on the block explorer.
+https://explorer-evm.testnet.swisstronik.com/address/0xEbCF48fE015CF77BF1bEf029c691bb67720B7511#code
+
+Contract verified to https://explorer-evm.testnet.swisstronik.com/address/0xEbCF48fE015CF77BF1bEf029c691bb67720B7511
+Address written to deployed-address.ts
